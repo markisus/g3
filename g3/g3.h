@@ -1,0 +1,7 @@
+#include "g3/basis.h"
+#include "g3/bivector.h"
+#include "g3/multivector.h"
+#include "g3/operators.h"
+#include "g3/quaternion.h"
+#include "g3/scalar.h"
+#include "g3/vector.h"
